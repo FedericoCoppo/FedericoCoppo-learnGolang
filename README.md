@@ -66,7 +66,7 @@ The Swap() function should return nothing, but it should swap the contents of th
 bubbleSort.go
 ```
 
-## Space calculation
+## Space calculation (function as return value)
 Let us assume the following formula for displacement s as a function of time t, acceleration a, init velocity vo, and init displacement so.
 
 s =½ a t2 + vot + so
