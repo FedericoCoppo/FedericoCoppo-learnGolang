@@ -97,9 +97,9 @@ The user can issue a request to find out one of three things about an animal:
 The following table contains the three animals and their associated data which should be hard-coded into your program.
 ```
 Animal	Food eaten	Locomtion method	Spoken sound
-cow	grass		walk				moo
-bird	worms		fly				peep
-snake	mice		slither				hsss
+cow	grass		walk			moo
+bird	worms		fly			peep
+snake	mice		slither			hsss
 ```
 Your program should present the user with a prompt, “>”, to indicate that the user can type a request. 
 Your program accepts one request at a time from the user, prints out the answer to the request, and prints out a new prompt. 
@@ -117,7 +117,7 @@ Your program should call the appropriate method when the user makes a request.
 animalReceiverType.go
 ```
 
-## Animal Interface
+## Animal Interface (override method for polymorphism emulation)
 The program should allows the user to create a set of animals and to get information about those animals. 
 Each animal has a name and can be either a cow, bird, or snake. With each command, the user can either create 
 a new animal of one of the three types, or the user can request information about an animal that he/she has already created. 
@@ -125,9 +125,9 @@ Each animal has a unique name, defined by the user. Note that the user can defin
 are restricted to either cow, bird, or snake. The following table contains the three types of animals and their associated data.
 ```
 Animal	Food eaten	Locomtion method	Spoken sound
-cow	grass		walk				moo
-bird	worms		fly				peep
-snake	mice		slither				hsss
+cow	grass		walk			moo
+bird	worms		fly			peep
+snake	mice		slither			hsss
 ```
 Your program should present the user with a prompt, “>”, to indicate that the user can type a request. 
 Your program should accept one command at a time from the user, print out a response, and print out a new prompt on a new line. 
