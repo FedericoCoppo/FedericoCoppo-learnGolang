@@ -97,8 +97,8 @@ The user can issue a request to find out one of three things about an animal:
 The following table contains the three animals and their associated data which should be hard-coded into your program.
 ```
 Animal	Food eaten	Locomtion method	Spoken sound
-cow	g	rass		walk				moo
-bird	worms		fly					peep
+cow	grass		walk				moo
+bird	worms		fly				peep
 snake	mice		slither				hsss
 ```
 Your program should present the user with a prompt, “>”, to indicate that the user can type a request. 
@@ -125,8 +125,8 @@ Each animal has a unique name, defined by the user. Note that the user can defin
 are restricted to either cow, bird, or snake. The following table contains the three types of animals and their associated data.
 ```
 Animal	Food eaten	Locomtion method	Spoken sound
-cow	g	rass		walk				moo
-bird	worms		fly					peep
+cow	grass		walk				moo
+bird	worms		fly				peep
 snake	mice		slither				hsss
 ```
 Your program should present the user with a prompt, “>”, to indicate that the user can type a request. 
