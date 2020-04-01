@@ -155,6 +155,12 @@ Write two goroutines which have a race condition when executed concurrently.
 raceCondition.go
 ```
 
+## Deferred functionality
+Simple example to show dereffered functionality. 
+```
+deferredFunctionCall.go
+```
+
 ## Thread: sort an array of integers 
 The program should partition the array into 4 parts, each of which is sorted by a different goroutine. 
 Each partition should be of approximately equal size. Then the main goroutine should merge the 4 sorted 
