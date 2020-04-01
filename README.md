@@ -156,7 +156,7 @@ raceCondition.go
 ```
 
 ## Deferred functionality
-Simple example to show dereffered functionality. 
+Simple example to show deferred functionality. 
 ```
 deferredFunctionCall.go
 ```
