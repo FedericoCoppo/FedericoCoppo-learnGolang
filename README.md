@@ -89,7 +89,7 @@ fmt.Println(fn(5))
 space.go
 ```
 
-## Animal Receiver Type
+## Animal (Receiver Type used for classes emulation example)
 The program should allows the user to get information about a predefined set of animals. 
 Three animals are predefined, cow, bird, and snake. Each animal can eat, move, and speak. 
 The user can issue a request to find out one of three things about an animal: 
